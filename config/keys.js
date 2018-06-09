@@ -1,0 +1,5 @@
+module.exports = {
+	facebookAccessToken : "EAADcDfaVklsBAN0xHqAFep42NohP1iTNa7LJmh1SZBdWUmB1MGsKFrMaUB4mb7Xox3UOM5cQeiQYaBrgMWzS4IisGTN6rMcCoQq0Tnq0pe6XhEUu2sLR5C3w4npLSVHQ3aJfMyRAHMUDybmHC1ZCQVhCJjMGhxEqBVAZBIoZBQZDZD",
+	myToken: "560006056b28ebda0f8ca1e54e1e98ab383bc1654bcd0b37",
+	appSecret: "feff10357ec52d6c92352fbbd501c009"
+}

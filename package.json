@@ -1,0 +1,24 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js",
+    "dev": "concurrently \"npm run server\" \"npm run webhook\"",
+    "webhook": "lt -p 5000 -s wololoyaayutireopr"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "concurrently": "^3.5.1",
+    "express": "^4.16.3",
+    "localtunnel": "^1.9.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "xregexp": "^3.1.1",
+    "yql": "^1.0.2"
+  }
+}
